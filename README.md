@@ -8,6 +8,15 @@
 - 📝 I regularly write articles on [Hashnode](https://apj-cr.hashnode.dev/)
 
 - 📫 How to reach me **akshayjadhav2133@gmail.com**
+- # Projects
+
+1. UI Design Mega Project:-  built responsive website design using HTML,CSS and Tailwind CSS.  Added Darkmode with the help of JS.
+    1. [Live Website](https://ui-design-project-apjcr.netlify.app/)
+    2. [Repository](https://github.com/apj19/FrontendMentorChallenges) 
+
+2. Brand Logos:- built differnt logos using css
+    1. [Live Website](https://css-logos.netlify.app/)
+    2. [Repository](https://github.com/apj19/Logos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
