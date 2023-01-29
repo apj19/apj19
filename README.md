@@ -18,6 +18,10 @@
     1. [Live Website](https://css-logos.netlify.app/)
     2. [Repository](https://github.com/apj19/Logos)
 
+3. Visual Studio Code website Clone using Tailwind CSS
+    1. [Live Website](https://chic-hamster-37df2a.netlify.app/)
+    2. [Repository](https://github.com/apj19/VS-Code-Clone)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-jadhav-01737711b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-jadhav-01737711b/" height="30" width="40" /></a>
