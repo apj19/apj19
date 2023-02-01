@@ -1,5 +1,6 @@
 
-![](./gitbcg.JPG)
+<!-- ![](./gitbcg.JPG) -->
+![](./The%20more%20I%20learn%2C%20the%20more%20I%20realize%20how%20much%20I%20don't%20know.%E2%80%9D%20%E2%80%94%20Albert%20Einstein.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Jadhav</h1>
 <h3 align="center">Coding</h3>
 
