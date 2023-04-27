@@ -11,19 +11,56 @@
 
 - 📫 How to reach me **akshayjadhav2133@gmail.com**
 
+- [Portfolio Website](https://akshayjadhavapjcr.netlify.app/)
+
 # Projects
 
 ## React JS
 
 1. Netflix Clone
+
    1. [Live Demo](https://netflixcloneapjcr.netlify.app/)
    2. [Repository](https://github.com/apj19/Netflix-Clone)
+
+2. Comfy E-commerce
+
+   1. [Live Demo](https://comfyapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/comfy)
+
+3. Pokedex
+
+   1. [Live Demo](https://pokedexapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/pkemon)
+
+4. Restaurant
+
+   1. [Live Demo](https://mealsapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/Restaurant)
+
+5. TODO
+
+   1. [Live Demo](https://taskapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/ToDo)
+
+6. Redux TODO
+
+   1. [Live Demo](https://reduxtodoapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/ReducTodo)
+
+7. Art
+
+   1. [Live Demo](https://artapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/GemotricArt)
+
+8. Rock-Paper-Scissors
+   1. [Live Demo](https://rpslsapjcr.netlify.app/)
+   2. [Repository](https://github.com/apj19/Rock-Paper-Scissors)
 
 ## JavaScript
 
 1. Weather App
 
-   1. [Live Demo](https://netflixcloneapjcr.netlify.app/)
+   1. [Live Demo](https://weatherappapjcr.netlify.app/)
    2. [Repository](https://github.com/apj19/Dom-Manipulation/tree/main/Weather-App)
 
 2. Countries Data visualization Mega Project
